@@ -1,0 +1,16 @@
+﻿td
+{
+    vertical-align: top;
+}
+
+td.gewijzigd
+{
+    color: red;
+    font-weight: bold;
+}
+
+td span
+{
+    color: red;
+    font-weight: bold;
+}

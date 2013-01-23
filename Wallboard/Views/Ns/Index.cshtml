@@ -1,0 +1,48 @@
+﻿@using Wallboard.Utils
+@model Wallboard.Models.NsPage
+
+<div id="vertrektijden">
+<table>
+    <thead>
+        <tr>
+            <th>Tijd</th>    
+            <th>Naar</th>
+            <th>Spoor</th>
+            <th>Via</th>
+            <th>Reisdetails</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var trein in Model.VertrekkendeTreinen)
+{
+    <tr>
+        <td>
+            @trein.VertrekTijd.ToShortTimeString()
+            @if(trein.VertrekVertraging != null ) {
+                <span>@trein.VertrekVertraging.Tekst</span>
+            }
+        </td>
+        <td>
+            @trein.EindBestemming
+            @if (@trein.Opmerkingen.Count > 0 ) {
+                <br /><span>@trein.Opmerkingen.FirstOrDefault()</span>
+            }
+        </td>
+        <td @Html.Css("gewijzigd", @trein.VertrekSpoor.Gewijzigd)>@trein.VertrekSpoor.Nummer</td>
+        <td>@trein.Route</td>
+        <td>@trein.TreinSoort</td>
+    </tr>
+}
+    </tbody>
+</table>
+</div>
+<div id="reisadviesen">
+    @foreach (var advies in Model.ReisAdviesen)
+    {
+        <h3>@advies.Key</h3>
+        if (advies.Value.Count > 0 ) {
+        @:Vertrek: @advies.Value[0].GeplandeVertrekTijd.ToShortTimeString() <span>@advies.Value[0].VertrekVertraging</span><br />
+        @:Overstappen:  @advies.Value[0].AantalOverstappen <br />        
+        }
+    }
+</div>

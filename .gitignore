@@ -1,0 +1,7 @@
+*.suo
+Wallboard/bin
+Wallboard/obj
+Wallboard/*.user
+WallboardTest/bin
+WallboardTest/obj
+WallboardTest/*.user

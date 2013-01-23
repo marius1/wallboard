@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wallboard", "Wallboard\Wallboard.csproj", "{0BDA1670-DCB5-42CE-B439-CD9765F18308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallboardTest", "WallboardTest\WallboardTest.csproj", "{E94798BB-4F51-44A7-BAAC-2E22120F26A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BDA1670-DCB5-42CE-B439-CD9765F18308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDA1670-DCB5-42CE-B439-CD9765F18308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDA1670-DCB5-42CE-B439-CD9765F18308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDA1670-DCB5-42CE-B439-CD9765F18308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94798BB-4F51-44A7-BAAC-2E22120F26A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94798BB-4F51-44A7-BAAC-2E22120F26A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94798BB-4F51-44A7-BAAC-2E22120F26A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94798BB-4F51-44A7-BAAC-2E22120F26A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

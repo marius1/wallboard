@@ -1,0 +1,879 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+<ReisMogelijkheden>
+
+  <ReisMogelijkheid>
+
+    <Melding>
+      <Id>2012_gn_asn_25feb_4mrt</Id>
+      <Ernstig>false</Ernstig>
+      <Text>Let op, werk aan het spoor Assen - Groningen</Text>
+    </Melding>
+
+    <AantalOverstappen>0</AantalOverstappen>
+    <GeplandeReisTijd>0:50</GeplandeReisTijd>
+
+    <ActueleReisTijd>0:50</ActueleReisTijd>
+
+
+
+    <Optimaal>false</Optimaal>
+    <GeplandeVertrekTijd>2013-01-22T21:58:00+0100</GeplandeVertrekTijd>
+    <ActueleVertrekTijd>2013-01-22T21:58:00+0100</ActueleVertrekTijd>
+    <GeplandeAankomstTijd>2013-01-22T22:48:00+0100</GeplandeAankomstTijd>
+    <ActueleAankomstTijd>2013-01-22T22:48:00+0100</ActueleAankomstTijd>
+
+
+    <Status>VOLGENS-PLAN</Status>
+
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Intercity</VervoerType>
+      <RitNummer>3074</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Amsterdam Amstel</Naam>
+        <Tijd>2013-01-22T21:58:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">1</Spoor>
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Amsterdam Centraal</Naam>
+        <Tijd>2013-01-22T22:12:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Sloterdijk</Naam>
+        <Tijd>2013-01-22T22:18:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Zaandam</Naam>
+        <Tijd>2013-01-22T22:25:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Castricum</Naam>
+        <Tijd>2013-01-22T22:37:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Heiloo</Naam>
+        <Tijd>2013-01-22T22:41:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Alkmaar</Naam>
+        <Tijd>2013-01-22T22:48:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">3</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+  </ReisMogelijkheid>
+
+  <ReisMogelijkheid>
+
+    <AantalOverstappen>1</AantalOverstappen>
+    <GeplandeReisTijd>1:00</GeplandeReisTijd>
+
+    <ActueleReisTijd>1:00</ActueleReisTijd>
+
+
+
+    <Optimaal>false</Optimaal>
+    <GeplandeVertrekTijd>2013-01-22T22:04:00+0100</GeplandeVertrekTijd>
+    <ActueleVertrekTijd>2013-01-22T22:04:00+0100</ActueleVertrekTijd>
+    <GeplandeAankomstTijd>2013-01-22T23:04:00+0100</GeplandeAankomstTijd>
+    <ActueleAankomstTijd>2013-01-22T23:04:00+0100</ActueleAankomstTijd>
+
+
+    <Status>VOLGENS-PLAN</Status>
+
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Sprinter</VervoerType>
+      <RitNummer>4074</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Amsterdam Amstel</Naam>
+        <Tijd>2013-01-22T22:04:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">1</Spoor>
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Amsterdam Muiderpoort</Naam>
+        <Tijd>2013-01-22T22:07:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Centraal</Naam>
+        <Tijd>2013-01-22T22:17:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Sloterdijk</Naam>
+        <Tijd>2013-01-22T22:22:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Zaandam</Naam>
+        <Tijd>2013-01-22T22:28:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Koog Bloemwijk</Naam>
+        <Tijd>2013-01-22T22:32:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Koog-Zaandijk</Naam>
+        <Tijd>2013-01-22T22:34:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Wormerveer</Naam>
+        <Tijd>2013-01-22T22:38:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Krommenie-Assendelft</Naam>
+        <Tijd>2013-01-22T22:41:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Uitgeest</Naam>
+        <Tijd>2013-01-22T22:47:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">4b</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Sprinter</VervoerType>
+      <RitNummer>14885</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Uitgeest</Naam>
+        <Tijd>2013-01-22T22:50:00+0100</Tijd>
+
+
+
+        <Spoor wijziging="true">1a</Spoor>
+
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Castricum</Naam>
+        <Tijd>2013-01-22T22:53:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Heiloo</Naam>
+        <Tijd>2013-01-22T22:58:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Alkmaar</Naam>
+        <Tijd>2013-01-22T23:04:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">2</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+  </ReisMogelijkheid>
+
+  <ReisMogelijkheid>
+
+    <AantalOverstappen>0</AantalOverstappen>
+    <GeplandeReisTijd>0:50</GeplandeReisTijd>
+
+    <ActueleReisTijd>0:50</ActueleReisTijd>
+
+
+
+    <Optimaal>false</Optimaal>
+    <GeplandeVertrekTijd>2013-01-22T22:28:00+0100</GeplandeVertrekTijd>
+    <ActueleVertrekTijd>2013-01-22T22:28:00+0100</ActueleVertrekTijd>
+    <GeplandeAankomstTijd>2013-01-22T23:18:00+0100</GeplandeAankomstTijd>
+    <ActueleAankomstTijd>2013-01-22T23:18:00+0100</ActueleAankomstTijd>
+
+
+    <Status>VOLGENS-PLAN</Status>
+
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Intercity</VervoerType>
+      <RitNummer>3076</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Amsterdam Amstel</Naam>
+        <Tijd>2013-01-22T22:28:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">1</Spoor>
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Amsterdam Centraal</Naam>
+        <Tijd>2013-01-22T22:42:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Sloterdijk</Naam>
+        <Tijd>2013-01-22T22:48:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Zaandam</Naam>
+        <Tijd>2013-01-22T22:55:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Castricum</Naam>
+        <Tijd>2013-01-22T23:07:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Heiloo</Naam>
+        <Tijd>2013-01-22T23:12:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Alkmaar</Naam>
+        <Tijd>2013-01-22T23:18:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">3</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+  </ReisMogelijkheid>
+
+  <ReisMogelijkheid>
+
+    <AantalOverstappen>1</AantalOverstappen>
+    <GeplandeReisTijd>1:00</GeplandeReisTijd>
+
+    <ActueleReisTijd>1:00</ActueleReisTijd>
+
+
+
+    <Optimaal>false</Optimaal>
+    <GeplandeVertrekTijd>2013-01-22T22:34:00+0100</GeplandeVertrekTijd>
+    <ActueleVertrekTijd>2013-01-22T22:34:00+0100</ActueleVertrekTijd>
+    <GeplandeAankomstTijd>2013-01-22T23:34:00+0100</GeplandeAankomstTijd>
+    <ActueleAankomstTijd>2013-01-22T23:34:00+0100</ActueleAankomstTijd>
+
+
+    <Status>VOLGENS-PLAN</Status>
+
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Sprinter</VervoerType>
+      <RitNummer>4076</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Amsterdam Amstel</Naam>
+        <Tijd>2013-01-22T22:34:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">1</Spoor>
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Amsterdam Muiderpoort</Naam>
+        <Tijd>2013-01-22T22:37:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Centraal</Naam>
+        <Tijd>2013-01-22T22:47:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Sloterdijk</Naam>
+        <Tijd>2013-01-22T22:52:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Zaandam</Naam>
+        <Tijd>2013-01-22T22:58:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Koog Bloemwijk</Naam>
+        <Tijd>2013-01-22T23:02:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Koog-Zaandijk</Naam>
+        <Tijd>2013-01-22T23:04:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Wormerveer</Naam>
+        <Tijd>2013-01-22T23:08:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Krommenie-Assendelft</Naam>
+        <Tijd>2013-01-22T23:11:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Uitgeest</Naam>
+        <Tijd>2013-01-22T23:17:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">4b</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Sprinter</VervoerType>
+      <RitNummer>14887</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Uitgeest</Naam>
+        <Tijd>2013-01-22T23:20:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">3</Spoor>
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Castricum</Naam>
+        <Tijd>2013-01-22T23:23:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Heiloo</Naam>
+        <Tijd>2013-01-22T23:28:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Alkmaar</Naam>
+        <Tijd>2013-01-22T23:34:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">4</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+  </ReisMogelijkheid>
+
+  <ReisMogelijkheid>
+
+    <AantalOverstappen>0</AantalOverstappen>
+    <GeplandeReisTijd>0:50</GeplandeReisTijd>
+
+    <ActueleReisTijd>0:50</ActueleReisTijd>
+
+
+
+    <Optimaal>false</Optimaal>
+    <GeplandeVertrekTijd>2013-01-22T22:58:00+0100</GeplandeVertrekTijd>
+    <ActueleVertrekTijd>2013-01-22T22:58:00+0100</ActueleVertrekTijd>
+    <GeplandeAankomstTijd>2013-01-22T23:48:00+0100</GeplandeAankomstTijd>
+    <ActueleAankomstTijd>2013-01-22T23:48:00+0100</ActueleAankomstTijd>
+
+
+    <Status>VOLGENS-PLAN</Status>
+
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Intercity</VervoerType>
+      <RitNummer>3078</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Amsterdam Amstel</Naam>
+        <Tijd>2013-01-22T22:58:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">1</Spoor>
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Amsterdam Centraal</Naam>
+        <Tijd>2013-01-22T23:12:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Sloterdijk</Naam>
+        <Tijd>2013-01-22T23:18:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Zaandam</Naam>
+        <Tijd>2013-01-22T23:25:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Castricum</Naam>
+        <Tijd>2013-01-22T23:37:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Heiloo</Naam>
+        <Tijd>2013-01-22T23:42:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Alkmaar</Naam>
+        <Tijd>2013-01-22T23:48:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">3</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+  </ReisMogelijkheid>
+
+  <ReisMogelijkheid>
+
+    <AantalOverstappen>1</AantalOverstappen>
+    <GeplandeReisTijd>1:00</GeplandeReisTijd>
+
+    <ActueleReisTijd>1:00</ActueleReisTijd>
+
+
+
+    <Optimaal>false</Optimaal>
+    <GeplandeVertrekTijd>2013-01-22T23:04:00+0100</GeplandeVertrekTijd>
+    <ActueleVertrekTijd>2013-01-22T23:04:00+0100</ActueleVertrekTijd>
+    <GeplandeAankomstTijd>2013-01-23T00:04:00+0100</GeplandeAankomstTijd>
+    <ActueleAankomstTijd>2013-01-23T00:04:00+0100</ActueleAankomstTijd>
+
+
+    <Status>VOLGENS-PLAN</Status>
+
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Sprinter</VervoerType>
+      <RitNummer>4078</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Amsterdam Amstel</Naam>
+        <Tijd>2013-01-22T23:04:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">1</Spoor>
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Amsterdam Muiderpoort</Naam>
+        <Tijd>2013-01-22T23:07:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Centraal</Naam>
+        <Tijd>2013-01-22T23:17:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Amsterdam Sloterdijk</Naam>
+        <Tijd>2013-01-22T23:22:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Zaandam</Naam>
+        <Tijd>2013-01-22T23:28:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Koog Bloemwijk</Naam>
+        <Tijd>2013-01-22T23:32:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Koog-Zaandijk</Naam>
+        <Tijd>2013-01-22T23:34:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Wormerveer</Naam>
+        <Tijd>2013-01-22T23:38:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Krommenie-Assendelft</Naam>
+        <Tijd>2013-01-22T23:41:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Uitgeest</Naam>
+        <Tijd>2013-01-22T23:47:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">1b</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+    <ReisDeel reisSoort="TRAIN">
+
+
+      <Vervoerder>NS</Vervoerder>
+      <VervoerType>Sprinter</VervoerType>
+      <RitNummer>14889</RitNummer>
+
+
+      <Status>VOLGENS-PLAN</Status>
+
+
+
+
+
+
+
+
+      <ReisStop>
+
+
+        <Naam>Uitgeest</Naam>
+        <Tijd>2013-01-22T23:50:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">1a</Spoor>
+
+
+
+
+
+      </ReisStop>
+
+
+
+      <ReisStop>
+        <Naam>Castricum</Naam>
+        <Tijd>2013-01-22T23:53:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Heiloo</Naam>
+        <Tijd>2013-01-22T23:58:00+0100</Tijd>
+
+      </ReisStop>
+
+      <ReisStop>
+        <Naam>Alkmaar</Naam>
+        <Tijd>2013-01-23T00:04:00+0100</Tijd>
+
+
+
+
+        <Spoor wijziging="false">2</Spoor>
+
+
+      </ReisStop>
+
+
+
+    </ReisDeel>
+
+  </ReisMogelijkheid>
+
+</ReisMogelijkheden>

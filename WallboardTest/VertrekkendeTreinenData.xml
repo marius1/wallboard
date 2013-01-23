@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<ActueleVertrekTijden>
+
+  <VertrekkendeTrein>
+    <RitNummer>3050</RitNummer>
+    <VertrekTijd>2013-01-18T15:58:00+0100</VertrekTijd>
+
+    <VertrekVertraging>PT14M</VertrekVertraging>
+
+
+    <VertrekVertragingTekst>+14 min</VertrekVertragingTekst>
+
+    <EindBestemming>Den Helder</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>4050</RitNummer>
+    <VertrekTijd>2013-01-18T16:04:00+0100</VertrekTijd>
+
+    <VertrekVertraging>PT8M</VertrekVertraging>
+
+
+    <VertrekVertragingTekst>+8 min</VertrekVertragingTekst>
+
+    <EindBestemming>Uitgeest</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Amsterdam C., A'dam Sloterdijk, Zaandam</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>7459</RitNummer>
+    <VertrekTijd>2013-01-18T16:07:00+0100</VertrekTijd>
+
+    <VertrekVertraging>PT10M</VertrekVertraging>
+
+
+    <VertrekVertragingTekst>+10 min</VertrekVertragingTekst>
+
+    <EindBestemming>Rhenen</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Duivendrecht, Breukelen, Utrecht C</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>852</RitNummer>
+    <VertrekTijd>2013-01-18T16:13:00+0100</VertrekTijd>
+
+    <VertrekVertraging>PT8M</VertrekVertraging>
+
+
+    <VertrekVertragingTekst>+8 min</VertrekVertragingTekst>
+
+    <EindBestemming>Schagen</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <RouteTekst>Amsterdam C., A'dam Sloterdijk, Zaandam</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+    <Opmerkingen>
+
+
+
+
+      <Opmerking>
+        Rijdt niet verder dan  Amsterdam Centraal
+      </Opmerking>
+
+
+    </Opmerkingen>
+    <ReisTip>Stopt niet in Arnhem Zuid</ReisTip>
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>859</RitNummer>
+    <VertrekTijd>2013-01-18T16:16:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Maastricht</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <RouteTekst>Utrecht C, s-Hertogenbosch, Eindhoven</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+    <Opmerkingen>
+
+
+      <Opmerking>
+        Rijdt vandaag niet
+      </Opmerking>
+
+
+    </Opmerkingen>
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>307450</RitNummer>
+    <VertrekTijd>2013-01-18T16:22:00+0100</VertrekTijd>
+
+    <VertrekVertraging>PT1M</VertrekVertraging>
+
+
+    <VertrekVertragingTekst>+1 min</VertrekVertragingTekst>
+
+    <EindBestemming>Uitgeest</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Amsterdam Muiderpoort</RouteTekst>
+
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>4061</RitNummer>
+    <VertrekTijd>2013-01-18T16:25:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Rotterdam Centraal</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Duivendrecht, Breukelen, Woerden</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>3052</RitNummer>
+    <VertrekTijd>2013-01-18T16:28:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Den Helder</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <RouteTekst>Amsterdam C., A'dam Sloterdijk, Zaandam</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+    <Opmerkingen>
+
+
+      <Opmerking>
+        Rijdt vandaag niet
+      </Opmerking>
+
+
+    </Opmerkingen>
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>3059</RitNummer>
+    <VertrekTijd>2013-01-18T16:31:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Nijmegen</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <RouteTekst>Utrecht C, De Klomp, Ede-Wageningen</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>4052</RitNummer>
+    <VertrekTijd>2013-01-18T16:34:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Uitgeest</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Amsterdam C., A'dam Sloterdijk, Zaandam</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+    <Opmerkingen>
+
+
+      <Opmerking>
+        Rijdt vandaag niet
+      </Opmerking>
+
+
+    </Opmerkingen>
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>7461</RitNummer>
+    <VertrekTijd>2013-01-18T16:35:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Rhenen</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Duivendrecht, Breukelen, Utrecht C</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>300854</RitNummer>
+    <VertrekTijd>2013-01-18T16:43:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Schagen</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <RouteTekst>Amsterdam Centraal, Amsterdam Sloterdijk, Zaandam</RouteTekst>
+
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>861</RitNummer>
+    <VertrekTijd>2013-01-18T16:46:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Maastricht</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <RouteTekst>Utrecht C, s-Hertogenbosch, Eindhoven</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>7452</RitNummer>
+    <VertrekTijd>2013-01-18T16:52:00+0100</VertrekTijd>
+
+    <VertrekVertraging>PT1M</VertrekVertraging>
+
+
+    <VertrekVertragingTekst>+1 min</VertrekVertragingTekst>
+
+    <EindBestemming>Uitgeest</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Amsterdam C., A'dam Sloterdijk, Zaandam</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>4063</RitNummer>
+    <VertrekTijd>2013-01-18T16:55:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Rotterdam Centraal</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Duivendrecht, Breukelen, Woerden</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>3054</RitNummer>
+    <VertrekTijd>2013-01-18T16:58:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Den Helder</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <RouteTekst>Amsterdam C., A'dam Sloterdijk, Zaandam</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>3061</RitNummer>
+    <VertrekTijd>2013-01-18T17:01:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Nijmegen</EindBestemming>
+    <TreinSoort>Intercity</TreinSoort>
+
+    <RouteTekst>Utrecht C, De Klomp, Ede-Wageningen</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>304054</RitNummer>
+    <VertrekTijd>2013-01-18T17:04:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Uitgeest</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Amsterdam Muiderpoort, Amsterdam Centraal, Amsterdam Sloterdijk</RouteTekst>
+
+
+    <VertrekSpoor wijziging="false">1</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+  <VertrekkendeTrein>
+    <RitNummer>7463</RitNummer>
+    <VertrekTijd>2013-01-18T17:07:00+0100</VertrekTijd>
+
+
+    <EindBestemming>Rhenen</EindBestemming>
+    <TreinSoort>Sprinter</TreinSoort>
+
+    <RouteTekst>Duivendrecht, Breukelen, Utrecht C</RouteTekst>
+
+
+    <Vervoerder>NS</Vervoerder>
+
+    <VertrekSpoor wijziging="false">4</VertrekSpoor>
+
+
+  </VertrekkendeTrein>
+
+</ActueleVertrekTijden>
