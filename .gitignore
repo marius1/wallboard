@@ -2,6 +2,7 @@
 Wallboard/bin
 Wallboard/obj
 Wallboard/*.user
+Wallboard/Web.config
 WallboardTest/bin
 WallboardTest/obj
 WallboardTest/*.user
